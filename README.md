@@ -1,6 +1,7 @@
 ## Hi, I'm Saksham 🛡️
 
 🔎 Cyber Security Analyst<br/>
+👨🏻‍💻 Full Stack Developer<br/>
 📜 Certified in CEH & CISCO<br/>
 🌐 I build secure and responsive websites<br/>
 📱 I develop robust and user-friendly mobile apps<br/>
